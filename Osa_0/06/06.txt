@@ -1,0 +1,7 @@
+title 0.6
+
+selain->palvelin: HTTP POST osoitteeseen new_note_spa
+
+note over selain: 
+Koodi lähettää formin tiedot palvelimelle ja renderöi sen näytölle 
+end note
